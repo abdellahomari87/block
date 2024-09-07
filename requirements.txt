@@ -1,3 +1,4 @@
-flask==0.12.2
-requests==2.18.4
-pytest==6.2.5
+flask==2.0.1
+requests==2.25.1
+ecdsa==0.17.0
+pytest==8.3.2  # Ou une version compatible si nécessaire
