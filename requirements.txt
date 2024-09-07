@@ -4,3 +4,4 @@ Jinja2==2.11.3
 requests==2.25.1
 ecdsa==0.17.0
 pytest==8.3.2
+MarkupSafe==2.0.1  # Version compatible avec Jinja2 2.11.3
