@@ -1,4 +1,6 @@
-flask==2.0.1
+Flask==0.12.2
+Werkzeug==0.16.1
 requests==2.25.1
 ecdsa==0.17.0
-pytest==8.3.2  # Ou une version compatible si nécessaire
+pytest==8.3.2
+
